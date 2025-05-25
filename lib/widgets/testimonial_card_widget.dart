@@ -31,7 +31,7 @@ class TestimonialCardWidget extends StatelessWidget {
             ),
             const SizedBox(width: 12),
 
-            // 📝 İçeri
+            // 📝 İçer
             Expanded(
               child: Column(
                 crossAxisAlignment: CrossAxisAlignment.start,
